@@ -45,7 +45,7 @@ const HeroSection = () => {
           </div>
           <div>
             <a type="button" href="mailto:kongyangmakrystal@gmail.com" className="px-6 py-3 w-full font-barlow sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-200 text-slate-600">Hire Me</a>
-            <button className="px-6 py-3 w-full sm:w-fit font-barlow rounded-full bg-transparent hover:bg-slate-600 text-white border-white border-2m mt-3 ">Download CV</button>
+            <a className="px-6 py-3 w-full sm:w-fit font-barlow rounded-full bg-transparent hover:bg-slate-600 text-white border-white border-2m mt-3" href="/krystalma-SDE-resume.pdf">View Resume</a>
           </div>
         </div>
         <div className="col-span-5 place-self-center mt-4 lg:mt-0">
